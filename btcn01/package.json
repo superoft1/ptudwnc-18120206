@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "btcn01",
+  "homepage": "https://superoft1.github.io/ptudwnc-18120206/btcn01",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  },
-  "homepage": "https://superoft1.github.io/ptudwnc-18120206/btcn01"
+  }
 }
